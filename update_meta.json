@@ -1,10 +1,10 @@
 {
   "schema": 2,
   "enabled": true,
-  "patch_id": "2026-08-12-093526",
+  "patch_id": "2026-08-12-095725",
   "required": true,
   "message": "새 클라이언트 데이터가 있습니다.",
-  "package_url": "https://github.com/valhallamukorea-cmd/unrealmu-client-updates/releases/download/patch-20260812-093526/update.zip",
-  "sha256": "9E073DE4244FB70E0CF539531ABD47DD94F2E2F3D980D21A9D3A591C63C7DA95",
-  "size": 620098
+  "package_url": "https://github.com/valhallamukorea-cmd/unrealmu-client-updates/releases/download/patch-20260812-095725/update.zip",
+  "sha256": "89EEBDAFCDD4E6B2C567DE306E9CE20A21F175D33A7F0639EE7B4D6AE3276AFE",
+  "size": 149972
 }
