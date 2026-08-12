@@ -1,7 +1,12 @@
-﻿[
-    {
-        "title":  "니케짱짱맨",
-        "date":  "2026-08-12",
-        "url":  "https://naver.com"
-    }
+[
+  {
+    "title": "가짜BMD테스트",
+    "date": "2026-08-12",
+    "url": "https://github.com/valhallamukorea-cmd/unrealmu-client-updates/releases/tag/patch-20260812-100618"
+  },
+  {
+    "title": "니케짱짱맨",
+    "date": "2026-08-12",
+    "url": "https://naver.com"
+  }
 ]
